@@ -9,7 +9,7 @@ st.markdown("""# AI or REAL
 ### Check if your image is AI generated or not 
 ## 
 """)
-img = st.file_uploader("UPLOAD HERE")
+img = st.file_uploader("UPLOADED HERE")
 if st.button('CHECK'):
     pil_image = Image.open(img)
     resized_image = pil_image.resize((256, 256))
