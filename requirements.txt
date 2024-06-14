@@ -1,6 +1,6 @@
-streamlit
-Pillow
-requests
-tensorflow
-keras
-opencv-python
+streamlit~=1.35.0
+pandas~=2.2.2
+numpy~=1.26.4
+tensorflow~=2.16.1
+h5py~=3.11.0
+pillow~=10.3.0
