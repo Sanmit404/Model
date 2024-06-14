@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 import h5py as h
 from PIL import Image
-model = tf.keras.models.load_model(r"C:/Users/sarka/Downloads/v1.5.h5")
+model = tf.keras.models.load_model(model.h5)
 st.markdown("""# AI or REAL
 ### Check if your image is AI generated or not 
 ## 
