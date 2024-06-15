@@ -1,1 +1,3 @@
-# Image classifier using Streamlit
+# Image classifier using Tensorflow
+#### WebApp made using Streamlit
+#### WebScraping using Selenium
