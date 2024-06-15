@@ -5,7 +5,7 @@ import tensorflow as tf
 import h5py as h
 from PIL import Image
 model = tf.keras.models.load_model("model.h5")
-st.image(r"C:\Users\sarka\Downloads\Untitled design(1).jpg")
+st.image("Untitled.jpg")
 st.markdown("""### Check if your image is AI generated or Real 
 ## 
 """)
