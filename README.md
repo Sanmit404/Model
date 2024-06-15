@@ -1,1 +1,1 @@
-# Model
+# Image classifier using Streamlit
